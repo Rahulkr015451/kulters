@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409673259018",
+    "project_id": "kulters",
+    "storage_bucket": "kulters.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409673259018:android:73be1f7043888064bfa7f3",
+        "android_client_info": {
+          "package_name": "com.example.kulters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu_4BkquDPxHCq7dui7b7jIrRqEg585f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
